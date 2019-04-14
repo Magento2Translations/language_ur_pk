@@ -25,6 +25,7 @@ major,بڑا,module,Magento_AdminNotification
 minor,معمولی,module,Magento_AdminNotification
 notice,نوٹس,module,Magento_AdminNotification
 "Wrong message type","غلط پیغام کی قسم",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","ایک یا زیادہ سے زیادہ کیشے کی اقسام کو باطل کر دیا گیا ہے: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","برائے مہربانی جاۂیں<a href=""٪1""> کیشے مینجمنٹ </a> اور کیشے کی اقسام کو تازہ کریں.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","میڈیا سٹوریجز کی مطابقت پذیری مکمل کردی گئی ہے.",module,Magento_AdminNotification
 "Close popup","پاپ اپ کو بند کریں",module,Magento_AdminNotification

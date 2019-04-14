@@ -1,0 +1,50 @@
+"Read Details","تفصیلات پڑھیں",module,Magento_AdminNotification
+"Mark as Read","پڑھ کر نشان زد کریں",module,Magento_AdminNotification
+"Are you sure?","کیا تمہیں یقین ہے؟",module,Magento_AdminNotification
+Remove,مٹانا,module,Magento_AdminNotification
+"Messages Inbox","پیغامات ان باکس کرو",module,Magento_AdminNotification
+"You have %1 new system messages","آپ کے پاس٪ 1 نۂے سسٹم پیغامات ہیں",module,Magento_AdminNotification
+"You have %1 new system message","آپ کے پاس٪ 1 نۂے نظام کا پیغام ہے",module,Magento_AdminNotification
+"Incoming Message","آنے والا پیغام",module,Magento_AdminNotification
+close,"بند کریں",module,Magento_AdminNotification
+Notifications,آگاہی,module,Magento_AdminNotification
+"The message has been marked as Read.","پیغام کو پڑھ کر نشان لگا دیا گیا ہے.",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","ایک غلطی کی وجہ سے ہم نوٹیفیکیشن کو نشان زدہ نہیں کر سکے کہ پڑھ لیا ہے.",module,Magento_AdminNotification
+"Please select messages.","براہ کرم پیغامات کو منتخب کریں.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","مجموعی طور پر٪ 1 ریکارڈز کو نشان زد کیا گیا ہے کہ پڑھ لیا گیا ہے.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","تمام %1 ریکارڈز ہٹا لیے گۂے ہیں.",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","ہم ایک غلطی کی وجہ سے پیغامات کو ہٹا نہیں سکتے ہیں.",module,Magento_AdminNotification
+"The message has been removed.","پیغام کو ہٹا دیا گیا ہے.",module,Magento_AdminNotification
+"1 Hour","1 گھنٹہ",module,Magento_AdminNotification
+"2 Hours","2 گھنٹے",module,Magento_AdminNotification
+"6 Hours","6 گھنٹے",module,Magento_AdminNotification
+"12 Hours","12 گھنٹے",module,Magento_AdminNotification
+"24 Hours","24 گھنٹے",module,Magento_AdminNotification
+critical,اہم,module,Magento_AdminNotification
+major,بڑا,module,Magento_AdminNotification
+minor,معمولی,module,Magento_AdminNotification
+notice,نوٹس,module,Magento_AdminNotification
+"Wrong message type","غلط پیغام کی قسم",module,Magento_AdminNotification
+"Wrong notification ID specified.","غلط نوٹیفیکیشن ID کی شناخت.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","ایک یا زیادہ سے زیادہ کیشے کی اقسام کو باطل کر دیا گیا ہے: %1. ",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","برائے مہربانی جاۂیں<a href=""٪1""> کیشے مینجمنٹ </a> اور کیشے کی اقسام کو تازہ کریں.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","ہم ایک یا زیادہ میڈیا فائلوں کو مطابقت پذیر کرنے میں ناکام تھے. براہ کرم تفصیلات کے لیے لاگ ان فائل کا حوالہ دیں.",module,Magento_AdminNotification
+"Synchronization of media storages has been completed.","میڈیا سٹوریجز کی مطابقت پذیری مکمل کردی گئی ہے.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","آپ کے ویب سرور کو غلط طریقے سے قائم کیا گیا ہے اور حساس فائلوں کو غیر مجاز تک رسائی کی اجازت دیتا ہے. براہ مہربانی اپنے ہوسٹنگ فراہم کرنے والے سے رابطہ کریں.",module,Magento_AdminNotification
+"System Messages:","سسٹم کے پیغامات:",module,Magento_AdminNotification
+"Critical System Messages","نازک نظام کے پیغامات",module,Magento_AdminNotification
+"Major System Messages","بڑے نظام کے پیغامات",module,Magento_AdminNotification
+"System messages","سسٹم کے پیغامات",module,Magento_AdminNotification
+Close,"بند کریں",module,Magento_AdminNotification
+"See All (","سب دیکھیں (",module,Magento_AdminNotification
+" unread)"," نہ پڑھا ہوا)",module,Magento_AdminNotification
+"Entity type model '%1' is not found","شے کے قسم کی ماڈل '%1' نہیں ملی",module,Magento_AdvancedPricingImportExport
+"Show Toolbar","ٹول بار دکھائیں",module,Magento_AdminNotification
+"Show List","فہرست دکھائیں",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","فیڈ حاصل کرنے کیلئے HTTPS کا استعمال کریں",module,Magento_AdminNotification
+"Update Frequency","اپ ڈیٹ فریکوئنسی",module,Magento_AdminNotification
+"Last Update","آخری اپ ڈیٹ",module,Magento_AdminNotification
+Severity,سختی,module,Magento_AdminNotification
+"Date Added","تاریخ شامل کر دی ہے",module,Magento_AdminNotification
+Message,پیغام,module,Magento_AdminNotification
+Actions,ایکشنز,module,Magento_AdminNotification

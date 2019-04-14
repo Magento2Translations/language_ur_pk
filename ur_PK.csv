@@ -15,6 +15,7 @@ Notifications,آگاہی,module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","تمام %1 ریکارڈز ہٹا لیے گۂے ہیں.",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.","ہم ایک غلطی کی وجہ سے پیغامات کو ہٹا نہیں سکتے ہیں.",module,Magento_AdminNotification
 "The message has been removed.","پیغام کو ہٹا دیا گیا ہے.",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","آپ تمام سسٹم پیغامات کو دیکھ اور حل کر چکے ہیں۔ مہربانی فرما کر اس صفحہ کو تازہ کریں تا کہ تمام پیغامات کی فہرست کو صاف کیا جا سکے.",module,Magento_AdminNotification
 "1 Hour","1 گھنٹہ",module,Magento_AdminNotification
 "2 Hours","2 گھنٹے",module,Magento_AdminNotification
 "6 Hours","6 گھنٹے",module,Magento_AdminNotification
@@ -26,6 +27,7 @@ minor,معمولی,module,Magento_AdminNotification
 notice,نوٹس,module,Magento_AdminNotification
 "Wrong message type","غلط پیغام کی قسم",module,Magento_AdminNotification
 "Wrong notification ID specified.","غلط نوٹیفیکیشن ID کی شناخت.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","ایک یا زیادہ سے زیادہ کیشے کی اقسام کو باطل کر دیا گیا ہے: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","برائے مہربانی جاۂیں<a href=""٪1""> کیشے مینجمنٹ </a> اور کیشے کی اقسام کو تازہ کریں.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","ہم ایک یا زیادہ میڈیا فائلوں کو مطابقت پذیر کرنے میں ناکام تھے. براہ کرم تفصیلات کے لیے لاگ ان فائل کا حوالہ دیں.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","میڈیا سٹوریجز کی مطابقت پذیری مکمل کردی گئی ہے.",module,Magento_AdminNotification
@@ -36,6 +38,7 @@ notice,نوٹس,module,Magento_AdminNotification
 "System messages","سسٹم کے پیغامات",module,Magento_AdminNotification
 Close,"بند کریں",module,Magento_AdminNotification
 "See All (","سب دیکھیں (",module,Magento_AdminNotification
+" unread)"," نہ پڑھا ہوا)",module,Magento_AdminNotification
 "Entity type model '%1' is not found","شے کے قسم کی ماڈل '%1' نہیں ملی",module,Magento_AdvancedPricingImportExport
 "Show Toolbar","ٹول بار دکھائیں",module,Magento_AdminNotification
 "Show List","فہرست دکھائیں",module,Magento_AdminNotification

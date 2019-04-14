@@ -26,6 +26,7 @@ minor,معمولی,module,Magento_AdminNotification
 notice,نوٹس,module,Magento_AdminNotification
 "Wrong message type","غلط پیغام کی قسم",module,Magento_AdminNotification
 "Wrong notification ID specified.","غلط نوٹیفیکیشن ID کی شناخت.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1. ","ایک یا زیادہ سے زیادہ کیشے کی اقسام کو باطل کر دیا گیا ہے: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","برائے مہربانی جاۂیں<a href=""٪1""> کیشے مینجمنٹ </a> اور کیشے کی اقسام کو تازہ کریں.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","ہم ایک یا زیادہ میڈیا فائلوں کو مطابقت پذیر کرنے میں ناکام تھے. براہ کرم تفصیلات کے لیے لاگ ان فائل کا حوالہ دیں.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","میڈیا سٹوریجز کی مطابقت پذیری مکمل کردی گئی ہے.",module,Magento_AdminNotification
@@ -36,6 +37,7 @@ notice,نوٹس,module,Magento_AdminNotification
 "System messages","سسٹم کے پیغامات",module,Magento_AdminNotification
 Close,"بند کریں",module,Magento_AdminNotification
 "See All (","سب دیکھیں (",module,Magento_AdminNotification
+" unread)"," نہ پڑھا ہوا)",module,Magento_AdminNotification
 "Entity type model '%1' is not found","شے کے قسم کی ماڈل '%1' نہیں ملی",module,Magento_AdvancedPricingImportExport
 "Show Toolbar","ٹول بار دکھائیں",module,Magento_AdminNotification
 "Show List","فہرست دکھائیں",module,Magento_AdminNotification
